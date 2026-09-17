@@ -7,7 +7,7 @@ function login() {
   const usuarios = {
     alunocangaiba: "cangaiba123",
     alunoipiranga: "ipiranga123",
-    vanessa: "prof123",
+    vanessa: "Altex121",
   };
 
   if (usuarios[usuario] && usuarios[usuario] === senha) {
