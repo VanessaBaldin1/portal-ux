@@ -6,7 +6,7 @@ function login() {
   // 👩‍🎓 Usuários cadastrados
   const usuarios = {
     alunocangaiba: "cangaiba123",
-    alunoipiranga: "ipiranga123",
+    alunoipiranga: "figital123",
     vanessa: "Altex121",
   };
 
